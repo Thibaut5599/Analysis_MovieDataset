@@ -1,4 +1,4 @@
-# Movie Analysis
+# Movies Analysis
 
 ## Project Overview
 This project explores global cinema trends by analyzing movies released between 1970 and 2024. The analysis focuses on three main areas: trends in movie ratings over time, genre popularity and evolution across decades, and global cinema diversity across genres and filmmakers.
@@ -10,7 +10,7 @@ This project explores global cinema trends by analyzing movies released between 
 
 ## Project Contents
 - Jupyter Notebook : Movies_1910-2024.ipynb file shows the full data preparation process and descriptive analysis of the dataset.
-- Datasets : Original dataset (16k_Movies.csv) from [Kaggle](https://www.kaggle.com/datasets/kashifsahil/16000-movies-1910-2024-metacritic) and cleaned and enriched dataset (Cleaned_16k_Movies.csv) ready for abalysis or further projects.
+- Datasets : Original dataset (16k_Movies.csv) from [Kaggle](https://www.kaggle.com/datasets/kashifsahil/16000-movies-1910-2024-metacritic) and cleaned and enriched dataset (Cleaned_16k_Movies.csv) ready for analysis or further projects.
 - Screenshots : Screenshots_Plotly_Charts folder contains some PNG files corresponding to the plotly graphics screenshots inserted in the Jupyter Notebook.
 - Tableau Dashboard : Analysis_MovieDataset.twbx file is an interactive dashboard for exploring genres, ratings, and other aspects of the dataset.
 
