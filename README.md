@@ -22,4 +22,4 @@ The visualizations and analysis indicate no strong correlations or clear trends 
 - Data Exploration : Open the dashboard (Analysis_MovieDataset.twbx) in Tableau or click [here](https://public.tableau.com/shared/6CJJQQP8N?:display_count=n&:origin=viz_share_link) to explore trends and patterns.
 
 ## Author
-Project by Thibaut LANNERS
+Project by Thibaut LANNERS.
