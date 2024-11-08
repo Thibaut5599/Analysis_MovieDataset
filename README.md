@@ -20,8 +20,15 @@ This project explores global cinema trends by analyzing movies released between 
 The visualizations and analysis indicate no strong correlations or clear trends within the dataset. A straightforward descriptive analysis, complemented by interactive visualizations in Tableau, provides a broad view for exploring movies released between 1970 and 2024.
 
 ## Usage 
-- **Data Analysis :** Open Movies_1910_2024.ipynb to view the data cleaning, preprocessing steps and descriptive analysis using Python.
-- **Data Exploration :** Open the dashboard (Analysis_MovieDataset.twbx) in Tableau or click [here](https://public.tableau.com/shared/6CJJQQP8N?:display_count=n&:origin=viz_share_link) to explore trends and patterns.
+1. **Clone the repository** (enter the following command in a terminal) :
+
+   git clone https://github.com/Thibaut5599/Analysis_MovieDataset.git
+   
+2. **Open the Jupyter Notebook :** Once you have cloned the repository, open Movies_1910_2024.ipynb file using Jupyter Notebook or JupyterLab (enter the following command in a terminal) :
+   
+   jupyter notebook Movies_1910_2024.ipynb
+
+3. **Data Exploration :** Open the dashboard (Analysis_MovieDataset.twbx) in Tableau or click [here](https://public.tableau.com/shared/6CJJQQP8N?:display_count=n&:origin=viz_share_link) to explore trends and patterns.
 
 ## Author
 Project by Thibaut LANNERS.
