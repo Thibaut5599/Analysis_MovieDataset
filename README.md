@@ -1,7 +1,9 @@
-# Movies Analysis
+# Analysis MovieDataset (Metacritic)
 
 ## Project Overview
-This project explores global cinema trends by analyzing movies released between 1970 and 2024. The analysis focuses on three main areas: trends in movie ratings over time, genre popularity and evolution across decades, and global cinema diversity across genres and filmmakers.
+Metacritic is a website that aggregates reviews of films, television shows, music albums, video games, and formerly books.
+
+This project explores global cinema trends by analyzing movies released between 1970 and 2024 (data from the [Metacritic](https://www.metacritic.com/) website). The analysis focuses on three main areas : trends in movie ratings over time, genre popularity and evolution across decades, and global cinema diversity across genres and filmmakers.
 
 ## Objectives
 - Trends in movie ratings over time
